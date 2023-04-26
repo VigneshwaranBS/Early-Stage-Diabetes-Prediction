@@ -1,3 +1,2 @@
-##
+# Early Stage Diabetes Prediction
 
-## **Early Stage Diabetes Prediction**
